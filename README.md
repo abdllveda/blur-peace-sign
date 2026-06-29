@@ -111,7 +111,3 @@ python main.py
 | Permission denied | Enable camera access in System Settings (macOS) or check device permissions (Linux). |
 | Low FPS | Lower capture resolution in `CameraConfig` or reduce `BLUR_KERNEL_SIZE` in `main.py`. |
 | Gesture not detected | Ensure your hand is visible, well lit, and fingers are clearly separated. |
-
-## License
-
-MIT (adjust as needed for your use case).
